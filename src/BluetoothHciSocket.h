@@ -17,7 +17,6 @@ public:
   static NAN_METHOD(BindUser);
   static NAN_METHOD(BindControl);
   static NAN_METHOD(IsDevUp);
-  static NAN_METHOD(GetDeviceList);
   static NAN_METHOD(SetFilter);
   static NAN_METHOD(Start);
   static NAN_METHOD(Stop);
